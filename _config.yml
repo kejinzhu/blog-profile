@@ -107,7 +107,7 @@ exclude_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kejinzhu/kejinzhu.github.io.git
+  repo: https://kejinzhu:15768847521abcd@github.com/kejinzhu/kejinzhu.github.io.git
   
 jsonContent:
     meta: false
